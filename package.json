@@ -1,5 +1,5 @@
 {
-  "name": "ip-calc",
+  "name": "netcalc",
   "version": "0.0.1",
   "description": "Module for various IP calculations.",
   "main": "ipcalc.js",
